@@ -1,0 +1,1 @@
+d:\C_sharp\Owis_rot_stage_with_Pilatus_console_batch_file\Owis_rot_stage_with_Pilatus_batch_file\Owis_rot_stage_with_Pilatus_batch_file\bin\Debug\Owis_rot_stage_with_Pilatus_batch_file.exe 4 1 0 360 1 147.213.112.19 41234 1 60 61 image
